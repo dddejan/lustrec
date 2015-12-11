@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="OcamlProjectSettings">
+	<section name="MakefileSettings">
+		<item value="GNU_MAKE" key="ocaml_make_variant"/>
+		<list key="ocaml_makefile_doc_targets">
+			<item value=""/>
+		</list>
+		<list key="ocaml_makefile_clean_targets">
+			<item value=""/>
+		</list>
+		<list key="ocaml_make_options">
+			<item value=""/>
+		</list>
+		<list key="ocaml_makefile_targets">
+			<item value=""/>
+		</list>
+	</section>
+</section>

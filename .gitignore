@@ -1,0 +1,7 @@
+config.log
+configure
+autom4te.cache
+Makefile
+_build
+config.status
+*~
